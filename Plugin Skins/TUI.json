@@ -36,12 +36,12 @@
                             "version": 1,
                             "focussed": {
                                 "version": 1,
-                                "colour": "00000000",
+                                "colour": "ff000000",
                                 "image": ""
                             },
                             "unfocussed": {
                                 "version": 1,
-                                "colour": "00000000",
+                                "colour": "ff000000",
                                 "image": ""
                             }
                         },
@@ -1264,8 +1264,61 @@
                                 "boundsType": "Absolute",
                                 "bounds": "343 497 278 107"
                             }
-                        }
-                    ]
+                        },
+                        {
+  "version": 2,
+  "componentData": {
+    "version": 1,
+    "name": "TitleMurdah",
+    "type": "Label",
+    "data": {
+      "version": 1,
+      "text": "MURDAH DUB SIREN",
+      "colour": "ffD4AF37",
+      "fontSize": 36,
+      "justification": "right"
+    }
+  },
+  "handle remapping": {
+    "version": 1,
+    "map": []
+  },
+  "bounds": {
+    "version": 1,
+    "acceptsHWFocus": "No",
+    "showWhenDataModelInvalid": "Show",
+    "whenVisible": "Always",
+    "boundsType": "Absolute",
+    "bounds": "700 520 500 60"
+  }
+},
+{
+  "version": 2,
+  "componentData": {
+    "version": 1,
+    "name": "ByTijuas",
+    "type": "Label",
+    "data": {
+      "version": 1,
+      "text": "by dj Tijuas",
+      "colour": "ffD4AF37",
+      "fontSize": 18,
+      "justification": "right"
+    }
+  },
+  "handle remapping": {
+    "version": 1,
+    "map": []
+  },
+  "bounds": {
+    "version": 1,
+    "acceptsHWFocus": "No",
+    "showWhenDataModelInvalid": "Show",
+    "whenVisible": "Always",
+    "boundsType": "Absolute",
+    "bounds": "700 580 500 30"
+  }
+}                    ]     
                 },
                 "qlinkBoundsData": [
                     "38 0 248 624",
