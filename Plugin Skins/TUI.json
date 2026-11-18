@@ -216,7 +216,7 @@
                                                 "style": "Regular",
                                                 "height": 26.0
                                             },
-                                            "colour": "ff7a8a74",
+                                            "colour": "ffffffff",
                                             "justification": "left",
                                             "case": "Original"
                                         },
@@ -356,7 +356,7 @@
                                                 "style": "Regular",
                                                 "height": 26.0
                                             },
-                                            "colour": "ff7a8a74",
+                                            "colour": "ffffffff",
                                             "justification": "left",
                                             "case": "Original"
                                         },
@@ -532,7 +532,7 @@
                                                 "style": "Regular",
                                                 "height": 24.0
                                             },
-                                            "colour": "ff7a8a74",
+                                            "colour": "ffffffff",
                                             "justification": "left",
                                             "case": "Original"
                                         },
@@ -1274,7 +1274,7 @@
     "data": {
       "version": 1,
       "text": "MURDAH DUB SIREN",
-      "colour": "ffD4AF37",
+      "colour": "ffffffff",
       "fontSize": 36,
       "justification": "right"
     }
@@ -1301,7 +1301,7 @@
     "data": {
       "version": 1,
       "text": "by dj Tijuas",
-      "colour": "ffD4AF37",
+      "colour": "ffffffff",
       "fontSize": 18,
       "justification": "right"
     }
