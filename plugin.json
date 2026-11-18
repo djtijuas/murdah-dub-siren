@@ -1,6 +1,6 @@
 {
   "name": "Murdah Dub Siren",
-  "manufacturer": "Pragmaticode",
+  "manufacturer": "dj Tijuas",
   "version": "1.0.0",
   "format": "vst2",
   "kind": "instrument",
@@ -11,7 +11,7 @@
   "file32": "VST/murdah-dub-siren-arm32.so",
   "file64": "VST/murdah-dub-siren-arm64.so",
   "description": "A Jamaican-style dub siren with a built-in lo-fi tape echo. Any pad fires it; Pitch, Range, Rate and Wave shape the siren, Time, Repeats and Mix shape the echo. Laid out for the MPC One's 4 Q-Links.",
-  "author": "Pragmaticode",
+  "author": "dj Tijuas",
   "url": "",
   "license": "MIT"
 }
